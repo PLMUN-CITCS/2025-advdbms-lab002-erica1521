@@ -10,3 +10,11 @@
 
     2. Place your create table query below this comment
 */
+
+
+CREATE TABLE tblStudents (
+    student_id INT,
+    student_name VARCHAR(50),
+    student_email VARCHAR(50),
+    student_phone VARCHAR(50)
+);
